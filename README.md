@@ -1,16 +1,30 @@
-### Hi there 👋
+# Augusto Hide
 
-<!--
-**AugustoHide/AugustoHide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação na UFMS (Universidade Federal de Mato Grosso do Sul) com interesse na área de programação web full stack.
+Atualmente domino o básico do front-end(html, css, javascript) e pretendo aprender React.
+Também tenho interesses nas áreas de Data Science e Ethical hacking.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Skils
+
+* Linguagens de programação
+	* c
+	* Java
+* Banco de dados
+	* MySQL
+* Front-end
+	* html, css, javascript
+* Back-end
+	* PHP
+
+# Portfólio
+
+
+
+## Programação Web
+
+Este é o resultado do meu trabalho da disciplina cursada na UFMS, Programação para Web.
+O resultado é um site de vendas de carros. Nele se pode cadastrar carros com fotos e ver eles na página principal.
+Minha maior contribuição nele foi no front-end criando o layout das páginas e organizando elas.
+[AutoBuy]( https://github.com/AugustoHide/Autobuy)
