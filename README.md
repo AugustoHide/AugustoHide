@@ -27,4 +27,4 @@ Também tenho interesses nas áreas de Data Science e Ethical hacking.
 Este é o resultado do meu trabalho da disciplina cursada na UFMS, Programação para Web.
 O resultado é um site de vendas de carros. Nele se pode cadastrar carros com fotos e ver eles na página principal.
 Minha maior contribuição nele foi no front-end criando o layout das páginas e organizando elas.
-[AutoBuy]( https://github.com/AugustoHide/Autobuy)
+* [AutoBuy]( https://github.com/AugustoHide/Autobuy)
