@@ -1,7 +1,7 @@
 # Augusto Hide
 
 Estudante de Ciência da Computação na UFMS (Universidade Federal de Mato Grosso do Sul) com interesse na área de programação web full stack.
-Atualmente domino o básico do front-end(html, css, javascript) e pretendo aprender React.
+Atualmente domino o básico do front-end(html, css, javascript) e php e pretendo aprender React.
 Também tenho interesses nas áreas de Data Science e Ethical hacking.
 
 
